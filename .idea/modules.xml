@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fpis-build.iml" filepath="$PROJECT_DIR$/.idea/modules/fpis-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mastering-advanced-scala.iml" filepath="$PROJECT_DIR$/.idea/modules/mastering-advanced-scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mastering-advanced-scala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/mastering-advanced-scala-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-etc.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-etc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-etc-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-etc-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-note.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-note.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-note-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-note-build.iml" />
+    </modules>
+  </component>
+</project>
