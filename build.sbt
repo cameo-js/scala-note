@@ -15,6 +15,9 @@ lazy val `mastering-advanced-scala` = (project in file("mastering-advanced-scala
 lazy val `scala-etc` = (project in file("scala-etc"))
   .settings(commonSettings)
 
+lazy val `coursera` = (project in file("coursera"))
+  .settings(commonSettings)
+
 
 lazy val commonSettings = Seq(
   version := "0.1.0-SNAPSHOT",
