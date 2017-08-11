@@ -1,4 +1,4 @@
-package week5
+package FunctionalProgrammingPrinciplesInScala.week5
 
 /**
   * Created by cameo on 2017. 7. 19..
