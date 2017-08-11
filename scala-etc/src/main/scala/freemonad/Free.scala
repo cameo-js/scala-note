@@ -1,6 +1,6 @@
 package freemonad
 
-object Free {
+object MyFree {
 
   sealed trait Interact[A]
   case class Ask(prompt: String) extends Interact[String]
